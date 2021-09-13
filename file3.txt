@@ -1,3 +1,5 @@
 Started new work file3
 
 Started component1
+
+Started component2
